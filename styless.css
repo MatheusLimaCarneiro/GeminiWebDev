@@ -89,10 +89,24 @@ section button:hover {
 
 /* Estiliza os títulos dentro dos itens de resultado */
 .item-resultado h2 {
-  font-size: 1.5rem; /* Tamanho da fonte */
-  color: #222831; /* Cor do texto */
+    display: flex;
+    justify-content: flex-start; /* Alinha o conteúdo para a esquerda */
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .item-resultado h2 img {
+    max-width: 100px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+.item-resultado h2 img:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    
 }
-
 /* Estiliza os links dentro dos itens de resultado */
 .item-resultado a {
   text-decoration: none; /* Remove o sublinhado padrão dos links */
