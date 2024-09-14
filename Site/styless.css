@@ -18,7 +18,7 @@ body {
 
 /* Estiliza os títulos h1 */
 h1 {
-  font-size: 2.5rem; /* Tamanho da fonte */
+  font-size: 2.5vw; /* Tamanho da fonte */
   color: #fcfcfc; /* Cor do texto */
   text-align: center; /* Alinha o texto ao centro */
   letter-spacing: 0.4rem; /* Espaçamento entre letras */
@@ -82,6 +82,7 @@ section button:hover {
   padding: 1rem; /* Espaçamento interno */
   margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
+  max-width: 90vw;
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
@@ -135,7 +136,7 @@ footer {
 
 @media (max-width: 768px) {
   h1 {
-    font-size: 2rem; /* Tamanho da fonte em telas menores */
+    font-size: 3vw; /* Tamanho da fonte em telas menores */
     letter-spacing: 0.2rem; /* Espaçamento entre letras em telas menores */
   }
 
@@ -152,12 +153,15 @@ footer {
   .item-resultado h2 {
     font-size: 1.3rem; /* Tamanho da fonte dos títulos em telas menores */
   }
+  .item-resultado img {
+    max-width: 12vw; /* Largura da imagem em telas menores */
+  }
 }
 
 /* Responsividade para celulares */
 @media (max-width: 480px) {
   h1 {
-    font-size: 1.8rem; /* Tamanho da fonte em telas pequenas */
+    font-size: 4vw; /* Tamanho da fonte em telas pequenas */
     letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
   }
 
@@ -181,5 +185,9 @@ footer {
 
   footer {
     font-size: 0.9rem; /* Tamanho da fonte do rodapé em telas pequenas */
+  }
+  
+  .item-resultado img {
+    max-width: 15vw; /* Largura da imagem em telas pequenas */
   }
 }

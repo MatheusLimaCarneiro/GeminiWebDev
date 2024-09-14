@@ -112,6 +112,77 @@ let personagens =[
         franquia: "Sonic the Hedgehog (filme 2020)",
         anoLancamento: 2020,
         tags: "videogame ouriço velocidade ação"
-      }
+      },
+      {
+        imagem: "https://th.bing.com/th/id/OIP.FmnbNrJFf-yzKycEO73SkQHaNK?w=115&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        nome: "Garfield",
+        descricao: "Garfield é um personagem de desenho animado adorável e inteligente, criado pela Jonathan Harris. Ele é um gato preto e bravo que vive na cidade de Wilson Farm. Garfield é conhecido por sua habilidade de se adaptar a diferentes situações e ambientes. Garfield é um dos personagens mais populares da franquia Garfield.",
+        link: "https://garfield.fandom.com/wiki/Garfield",
+        Ator: "Scott Beach(voz original)",
+        franquia: "Garfield",
+        anoLancamento: 1978,
+        tags: "desenho animado adorável inteligente gato"
+    },
+    {
+      imagem: "https://ovicio.com.br/wp-content/uploads/2023/07/20230722-goku-dragon-ball-curiosidades-0-555x555.webp",
+      nome: "Goku",
+      descricao: "Goku é um personagem de animação icônica da franquia Dragon Ball. Ele é um Saiyajin, um guerreiro que possui poderes de energia e força sobre-humana. Goku é conhecido por sua habilidade de se transformar em diferentes formas, incluindo o Super Saiyajin e o Ultra Instinto. Goku é um dos heróis mais populares da franquia Dragon Ball.",
+      link: "https://dragonball.fandom.com/wiki/Goku",
+      Ator: "Masako Nozawa(voz original)",
+      franquia: "Dragon Ball",
+      anoLancamento: 1986,
+      tags: "animação icônica guerreiro energia força Dragon Ball anime"
+  },
+  {
+    imagem: "https://th.bing.com/th/id/OIP.llvg4TOfl0EYpQ6VBll3XwAAAA?rs=1&pid=ImgDetMain",
+    nome: "Morty Smith",
+    descricao: "Morty Smith é um personagem de animação adorável e inteligente que vive na série Rick and Morty. Ele é um dos personagens mais populares da série e é conhecido por sua capacidade de se adaptar a diferentes situações e ambientes. Morty é um dos filhos de Rick Sanchez e é um dos principais personagens da família Smith.",
+    link: "https://rickandmorty.fandom.com/wiki/Morty_Smith",
+    Ator: "Justin Roiland(voz original)",
+    franquia: "Rick and Morty",
+    anoLancamento: 2013,
+    tags: "animação inteligente família Rick and Morty desenho"
+},
+{
+  imagem: "https://th.bing.com/th/id/R.59e58235058a8fc71872ee3d110cdbae?rik=c8oUv2Nklv%2bacw&riu=http%3a%2f%2fimages5.fanpop.com%2fimage%2fphotos%2f26700000%2fSnoopy-peanuts-26798379-1024-768.jpg&ehk=Akcf49hLhDJ8GELdCmAdrY2dmsTBdHD8Rf%2f3bIFy6yo%3d&risl=&pid=ImgRaw&r=0",
+  nome: "Snoopy",
+  descricao: "Snoopy é um personagem de desenho animado adorável e inteligente, criado pela Walt Disney. Ele é um cão de guarda e amigo de Charlie Brown, um personagem de animação de pequenos animais. Snoopy é conhecido por sua habilidade de se adaptar a diferentes situações e ambientes. Snoopy é um dos personagens mais populares da franquia Peanuts.",
+  link: "https://peanuts.fandom.com/wiki/Snoopy",
+  Ator: "Bill Melendez(voz original)",
+  franquia: "Peanuts",
+  anoLancamento: 1950,
+  tags: "desenho animado adorável inteligente amigo de Charlie Brown"
+},
+{
+  imagem: "https://www.civicx.com/forum/attachments/breaking-bad-main-jpg.266555/",
+  nome: "Walter White",
+  descricao: "Professor de química que se transforma em um poderoso chefão do tráfico de drogas após ser diagnosticado com câncer. Sua jornada é marcada por dilemas morais e a busca por garantir o futuro de sua família.",
+  link: "https://breakingbad.fandom.com/wiki/Walter_White",
+  Ator: "Bryan Cranston",
+  franquia: "Breaking Bad",
+  anoLancamento: 2008,
+  tags: "drama crime suspense drogas família"
+},
+{
+  imagem: "https://th.bing.com/th/id/OIP.vXs6NSLt5BhHQm0ZSFC1EQHaH9?rs=1&pid=ImgDetMain",
+  nome: "Capitão América",
+  descricao: "Captão América é um super-herói que luta contra o crime e a corrupção. Ele é um homem de aparência humana com poderes de combate e inteligência sobre-humanos. Capitão América é conhecido por sua habilidade de se transformar em uma armadura de aço e sua capacidade de se adaptar a diferentes situações e ambientes.",
+  link: "https://marvel.fandom.com/wiki/Captain_America",
+  Ator: "Chris Evans",
+  franquia: "Marvel Comics",
+  anoLancamento: 2011,
+  tags: "super-herói ação crime justiça"
+},
+{
+  imagem: "https://th.bing.com/th/id/OIP.pRY6xnTuQGAuAL_-LILfswAAAA?w=427&h=479&rs=1&pid=ImgDetMain",
+  nome: "Pantera Negra",
+  descricao: "Pantera Negra é um super-herói de origem africana que possui poderes de combate e habilidades de super-força. Ele é conhecido por sua habilidade de se transformar em uma armadura de aço e sua capacidade de se adaptar a diferentes situações e ambientes.",
+  link: "https://marvel.fandom.com/wiki/Black_Panther",
+  Ator: "Chadwick Boseman",
+  franquia: "Marvel Comics",
+  anoLancamento: 2018,
+  tags: "super-herói ação crime justiça"
+}
+
 ]
 
